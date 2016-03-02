@@ -1,0 +1,6 @@
+<?php
+$access_token = 'XXXX';
+$client_id = 'XXXX';
+$user_id = 'XXXX';
+$count = '33';
+$tag = 'gwhitcher';
